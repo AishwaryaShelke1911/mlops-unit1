@@ -20,3 +20,23 @@ mlops-unit1/
 ├── models/
 ├── requirements.txt
 └── README.md
+
+## Reproducibility Steps
+
+1. Clone the repository:
+   git clone https://github.com/AishwaryaShelke1911/mlops-unit1.git
+
+2. Go to project folder:
+   cd mlops-unit1
+
+3. Create virtual environment:
+   python3 -m venv venv
+
+4. Activate it:
+   source venv/bin/activate
+
+5. Install dependencies:
+   pip install -r requirements.txt
+
+6. Run the code:
+   python src/main.py
